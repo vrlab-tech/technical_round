@@ -27,7 +27,7 @@ The graphQL endpoint can be queried on express/node.js to access the data.
 
 Create an Express.js backend system with the following: 
 
-1. Query all Tokens available on uniswap using the “Token” schema, save it to mongoDB every 30 minutes.
+1. Query all Tokens available on uniswap using the “Token” schema, save it to mongoDB every 30 minutes. The existing tokens must be updated.
 
 2. Create an endpoint to access the tokens sorted by “tradeVolumeUSD”, “totalLiquidity” and “untrackedVolumeUSD”. The sorting filters need to be included in the query string. 
 
