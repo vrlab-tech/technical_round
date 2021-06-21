@@ -1,4 +1,4 @@
-Investdex is a platform that lists decentralised cryptocurrencies on uniswap and pancake swap (Two exchanges which trade crypto)Uniswap and pancake swap have APIs/GraphQL endpoints.
+investdex.io is a platform that lists decentralised cryptocurrencies on uniswap and pancake swap (Two exchanges which trade crypto)Uniswap and pancake swap have APIs/GraphQL endpoints.
 
 Uniswap endpoint is as follows: https://thegraph.com/explorer/subgraph/uniswap/uniswap-v2?selected=playground
 
